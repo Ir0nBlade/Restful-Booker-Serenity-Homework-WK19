@@ -1,0 +1,5 @@
+com\booker\restful\AppTest.class
+com\booker\restful\restfulbooker\BookingCRUDTest.class
+com\booker\restful\testbase\TestBase.class
+com\booker\restful\testbase\TestBaseForAuth.class
+com\booker\restful\restfulbooker\AuthTest.class
